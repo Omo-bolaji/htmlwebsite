@@ -1,1 +1,1 @@
-https://github.com/Omo-bolaji/htmlwebsite
+https://omo-bolaji.github.io/htmlwebsite/
